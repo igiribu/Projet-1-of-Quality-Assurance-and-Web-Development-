@@ -1,0 +1,58 @@
+.steph{
+   height: 100%;
+   width: 100%;
+   display:flex;
+   flex-direction: column;
+}
+
+body {
+    padding: 100;
+    margin-top: 45px;
+    margin-left: 45px;
+    margin-bottom: 50%;
+}
+.stiggy{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 5%;
+}
+.Photos{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.google {
+    height: 40px; 
+    width: 10%;
+    background-color: #d3d3d3; 
+    border: 0px; 
+    padding-left: 20px;
+    padding-right: 25%; 
+    border-radius: 25px;
+    margin-bottom: 3%;         
+}
+.uno{ padding-right: 26px;}
+.dos{ padding-right: 26px;}
+.tres{ padding-right: 26px;}
+
+.figure{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-top: 4%;
+}
+
+
+.redbutton {
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%; 
+    color: white; 
+    border: 0px;
+    position: absolute; top: 35px; right: 75px; 
+    
+  }
+
